@@ -1,0 +1,7 @@
+C:\Users\Orhun\source\repos\DungeonOfMenevor\DungeonOfMenevor\bin\Debug\DungeonOfMenevor.exe.config
+C:\Users\Orhun\source\repos\DungeonOfMenevor\DungeonOfMenevor\bin\Debug\DungeonOfMenevor.exe
+C:\Users\Orhun\source\repos\DungeonOfMenevor\DungeonOfMenevor\bin\Debug\DungeonOfMenevor.pdb
+C:\Users\Orhun\source\repos\DungeonOfMenevor\DungeonOfMenevor\obj\Debug\DungeonOfMenevor.csproj.AssemblyReference.cache
+C:\Users\Orhun\source\repos\DungeonOfMenevor\DungeonOfMenevor\obj\Debug\DungeonOfMenevor.csproj.CoreCompileInputs.cache
+C:\Users\Orhun\source\repos\DungeonOfMenevor\DungeonOfMenevor\obj\Debug\DungeonOfMenevor.exe
+C:\Users\Orhun\source\repos\DungeonOfMenevor\DungeonOfMenevor\obj\Debug\DungeonOfMenevor.pdb
